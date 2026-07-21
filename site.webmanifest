@@ -1,0 +1,15 @@
+{
+  "name":"Boda Jhon y Adriana",
+  "short_name":"Boda",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#14375A",
+  "theme_color":"#14375A",
+  "icons":[
+    {
+      "src":"favicon.ico",
+      "sizes":"64x64",
+      "type":"image/x-icon"
+    }
+  ]
+}
