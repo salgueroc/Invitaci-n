@@ -341,30 +341,19 @@ p{
 =            GALERÍA
 =====================================*/
 
-.gallery{
+.gallery img{
 
-    padding:90px 0;
+    width:100%;
 
-    background:var(--secondary);
+    max-height:650px;
 
-}
+    object-fit:contain;
 
-.gallery .wrapper{
+    object-position:center;
 
-    text-align:center;
+    background:#f6f2eb;
 
-}
-
-.gallery p{
-
-    max-width:650px;
-
-    margin:auto;
-
-    margin-bottom:45px;
-
-    color:var(--gray);
-
+    border-radius:18px;
 }
 
 
